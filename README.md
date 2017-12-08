@@ -1,0 +1,2 @@
+# RabbitMqNoAckRejectTest
+RabbitMqNoAckRejectTest
